@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+torch
+datasets
+transformers
+xgboost
+librosa
+soundfile
