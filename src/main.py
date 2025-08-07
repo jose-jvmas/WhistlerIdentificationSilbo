@@ -71,7 +71,7 @@ if __name__ == "__main__":
         if not os.path.exists("results"):
             os.makedirs("results")
 
-        Perform whistler classification experiments
+        # Perform whistler classification experiments
         perform_experiments(
             in_dataset=silbo_dataset,
             args=args,
